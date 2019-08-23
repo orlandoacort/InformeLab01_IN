@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.22)  22 AUG 2019 19:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.22)  22 AUG 2019 19:10
 entering extended mode
 **./Lab01IN.tex
 (Lab01IN.tex
@@ -348,7 +348,7 @@ Package pdftex.def Info: ./Imagenes/image002.png  used on input line 9.
 File: ./Imagenes/image003.png Graphic file (type png)
 <use ./Imagenes/image003.png>
 Package pdftex.def Info: ./Imagenes/image003.png  used on input line 11.
-(pdftex.def)             Requested size: 216.81029pt x 179.47073pt.
+(pdftex.def)             Requested size: 135.5059pt x 112.16878pt.
  [1
 
  <./Imagenes/image001.png> <./Imagenes/image002.png>]
@@ -361,53 +361,42 @@ Package pdftex.def Info: ./Imagenes/image004.png  used on input line 13.
 File: ./Imagenes/image005.png Graphic file (type png)
 <use ./Imagenes/image005.png>
 Package pdftex.def Info: ./Imagenes/image005.png  used on input line 15.
-(pdftex.def)             Requested size: 680.94492pt x 550.05576pt.
-
-Overfull \hbox (209.83562pt too wide) in paragraph at lines 14--16
-[] 
- []
-
-[2 <./Imagenes/image003.png> <./Imagenes/image004.png>]
+(pdftex.def)             Requested size: 425.58894pt x 343.78354pt.
+ [2 <./Imagenes/image003.png> <./Imagenes/image004.png>]
 <./Imagenes/image006.png, id=23, 168.63pt x 361.35pt>
 File: ./Imagenes/image006.png Graphic file (type png)
 <use ./Imagenes/image006.png>
 Package pdftex.def Info: ./Imagenes/image006.png  used on input line 17.
 (pdftex.def)             Requested size: 84.31479pt x 180.67456pt.
- [3 <./Imagenes/image005.png>]
-<./Imagenes/image007.png, id=27, 244.915pt x 144.54pt>
+<./Imagenes/image007.png, id=24, 244.915pt x 144.54pt>
 File: ./Imagenes/image007.png Graphic file (type png)
 <use ./Imagenes/image007.png>
 Package pdftex.def Info: ./Imagenes/image007.png  used on input line 19.
 (pdftex.def)             Requested size: 122.45718pt x 72.2698pt.
-<./Imagenes/image008.png, id=28, 852.18375pt x 679.53876pt>
+<./Imagenes/image008.png, id=25, 852.18375pt x 679.53876pt>
 File: ./Imagenes/image008.png Graphic file (type png)
 <use ./Imagenes/image008.png>
 Package pdftex.def Info: ./Imagenes/image008.png  used on input line 22.
-(pdftex.def)             Requested size: 681.74792pt x 543.63176pt.
+(pdftex.def)             Requested size: 426.09082pt x 339.76855pt.
 
 Overfull \hbox (42.22227pt too wide) in paragraph at lines 20--23
 []\OT1/cmr/m/n/12 9. En el cua-dro de dia-lo-go Na-ve-ga-dor (Na-vi-ga-tor), se
 -lec-cio-nar la vis-ta Sa-les.vStoreWithDemographics,
  []
 
-
-Overfull \hbox (210.63863pt too wide) in paragraph at lines 20--23
-[] 
- []
-
-[4 <./Imagenes/image006.png> <./Imagenes/image007.png>]
-<./Imagenes/image009.png, id=32, 183.68625pt x 325.215pt>
+[3 <./Imagenes/image005.png> <./Imagenes/image006.png> <./Imagenes/image007.png
+>]
+<./Imagenes/image009.png, id=29, 183.68625pt x 325.215pt>
 File: ./Imagenes/image009.png Graphic file (type png)
 <use ./Imagenes/image009.png>
 Package pdftex.def Info: ./Imagenes/image009.png  used on input line 24.
 (pdftex.def)             Requested size: 91.84288pt x 162.6071pt.
- [5 <./Imagenes/image008.png>]
-<./Imagenes/image010.png, id=37, 582.175pt x 625.33624pt>
+<./Imagenes/image010.png, id=30, 582.175pt x 625.33624pt>
 File: ./Imagenes/image010.png Graphic file (type png)
 <use ./Imagenes/image010.png>
 Package pdftex.def Info: ./Imagenes/image010.png  used on input line 26.
 (pdftex.def)             Requested size: 291.08679pt x 312.66736pt.
-
+ [4 <./Imagenes/image008.png> <./Imagenes/image009.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
@@ -429,54 +418,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--32
 
  []
 
-<./Imagenes/image011.png, id=38, 690.58pt x 647.41875pt>
+<./Imagenes/image011.png, id=34, 690.58pt x 647.41875pt>
 File: ./Imagenes/image011.png Graphic file (type png)
 <use ./Imagenes/image011.png>
 Package pdftex.def Info: ./Imagenes/image011.png  used on input line 33.
 (pdftex.def)             Requested size: 345.28915pt x 323.70857pt.
-[6 <./Imagenes/image009.png> <./Imagenes/image010.png>]
-<./Imagenes/image012.png, id=42, 656.4525pt x 635.37375pt>
+[5 <./Imagenes/image010.png>]
+<./Imagenes/image012.png, id=39, 656.4525pt x 635.37375pt>
 File: ./Imagenes/image012.png Graphic file (type png)
 <use ./Imagenes/image012.png>
 Package pdftex.def Info: ./Imagenes/image012.png  used on input line 35.
-(pdftex.def)             Requested size: 525.16272pt x 508.29968pt.
-
-Overfull \hbox (54.05342pt too wide) in paragraph at lines 34--36
-[] 
- []
-
-[7 <./Imagenes/image011.png>]
-<./Imagenes/image013.png, id=46, 151.56625pt x 116.435pt>
+(pdftex.def)             Requested size: 328.22545pt x 317.6861pt.
+<./Imagenes/image013.png, id=40, 151.56625pt x 116.435pt>
 File: ./Imagenes/image013.png Graphic file (type png)
 <use ./Imagenes/image013.png>
 Package pdftex.def Info: ./Imagenes/image013.png  used on input line 37.
 (pdftex.def)             Requested size: 75.78293pt x 58.21735pt.
-<./Imagenes/image014.png, id=47, 177.66376pt x 246.9225pt>
+ [6 <./Imagenes/image011.png> <./Imagenes/image012.png>]
+<./Imagenes/image014.png, id=44, 177.66376pt x 246.9225pt>
 File: ./Imagenes/image014.png Graphic file (type png)
 <use ./Imagenes/image014.png>
 Package pdftex.def Info: ./Imagenes/image014.png  used on input line 39.
 (pdftex.def)             Requested size: 88.83165pt x 123.46094pt.
- [8 <./Imagenes/image012.png> <./Imagenes/image013.png>]) [9 <./Imagenes/image0
-14.png>]
+) [7 <./Imagenes/image013.png> <./Imagenes/image014.png>]
 \openout2 = `Secciones/Actividad02.aux'.
 
- (Secciones/Actividad02.tex
-<./Imagenes/image015.png, id=54, 175.65625pt x 153.57375pt>
+
+(Secciones/Actividad02.tex
+<./Imagenes/image015.png, id=48, 175.65625pt x 153.57375pt>
 File: ./Imagenes/image015.png Graphic file (type png)
 <use ./Imagenes/image015.png>
 Package pdftex.def Info: ./Imagenes/image015.png  used on input line 7.
 (pdftex.def)             Requested size: 87.8279pt x 76.78668pt.
-<./Imagenes/image016.png, id=55, 179.67125pt x 69.25874pt>
+<./Imagenes/image016.png, id=49, 179.67125pt x 69.25874pt>
 File: ./Imagenes/image016.png Graphic file (type png)
 <use ./Imagenes/image016.png>
 Package pdftex.def Info: ./Imagenes/image016.png  used on input line 10.
 (pdftex.def)             Requested size: 143.73717pt x 55.40706pt.
-<./Imagenes/image017.png, id=56, 522.95375pt x 453.695pt>
+<./Imagenes/image017.png, id=50, 522.95375pt x 453.695pt>
 File: ./Imagenes/image017.png Graphic file (type png)
 <use ./Imagenes/image017.png>
 Package pdftex.def Info: ./Imagenes/image017.png  used on input line 13.
 (pdftex.def)             Requested size: 261.47623pt x 226.84694pt.
-<./Imagenes/image018.png, id=57, 126.4725pt x 48.18pt>
+<./Imagenes/image018.png, id=51, 126.4725pt x 48.18pt>
 File: ./Imagenes/image018.png Graphic file (type png)
 <use ./Imagenes/image018.png>
 Package pdftex.def Info: ./Imagenes/image018.png  used on input line 15.
@@ -491,37 +475,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-<./Imagenes/image019.png, id=58, 156.585pt x 176.66pt>
+<./Imagenes/image019.png, id=52, 156.585pt x 176.66pt>
 File: ./Imagenes/image019.png Graphic file (type png)
 <use ./Imagenes/image019.png>
 Package pdftex.def Info: ./Imagenes/image019.png  used on input line 21.
 (pdftex.def)             Requested size: 78.2923pt x 88.32977pt.
-<./Imagenes/image020.png, id=59, 146.5475pt x 209.78375pt>
+<./Imagenes/image020.png, id=53, 146.5475pt x 209.78375pt>
 File: ./Imagenes/image020.png Graphic file (type png)
 <use ./Imagenes/image020.png>
 Package pdftex.def Info: ./Imagenes/image020.png  used on input line 22.
 (pdftex.def)             Requested size: 117.23813pt x 167.82721pt.
-[10
+[8
 
 
  <./Imagenes/image015.png> <./Imagenes/image016.png> <./Imagenes/image017.png> 
 <./Imagenes/image018.png>]
-<./Imagenes/image021.png, id=63, 177.66376pt x 66.2475pt>
+<./Imagenes/image021.png, id=57, 177.66376pt x 66.2475pt>
 File: ./Imagenes/image021.png Graphic file (type png)
 <use ./Imagenes/image021.png>
 Package pdftex.def Info: ./Imagenes/image021.png  used on input line 24.
 (pdftex.def)             Requested size: 88.83165pt x 33.12366pt.
-<./Imagenes/image022.png, id=64, 173.64874pt x 69.25874pt>
+<./Imagenes/image022.png, id=58, 173.64874pt x 69.25874pt>
 File: ./Imagenes/image022.png Graphic file (type png)
 <use ./Imagenes/image022.png>
 Package pdftex.def Info: ./Imagenes/image022.png  used on input line 26.
 (pdftex.def)             Requested size: 86.82416pt x 34.62927pt.
-<./Imagenes/image023.png, id=65, 450.68375pt x 296.10625pt>
+<./Imagenes/image023.png, id=59, 450.68375pt x 296.10625pt>
 File: ./Imagenes/image023.png Graphic file (type png)
 <use ./Imagenes/image023.png>
 Package pdftex.def Info: ./Imagenes/image023.png  used on input line 29.
 (pdftex.def)             Requested size: 225.34131pt x 148.05275pt.
-<./Imagenes/image024.png, id=66, 139.52126pt x 105.39375pt>
+<./Imagenes/image024.png, id=60, 139.52126pt x 105.39375pt>
 File: ./Imagenes/image024.png Graphic file (type png)
 <use ./Imagenes/image024.png>
 Package pdftex.def Info: ./Imagenes/image024.png  used on input line 31.
@@ -531,10 +515,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
-[11 <./Imagenes/image019.png> <./Imagenes/image020.png> <./Imagenes/image021.pn
-g> <./Imagenes/image022.png> <./Imagenes/image023.png> <./Imagenes/image024.png
->]
-<./Imagenes/image026.png, id=71, 510.90875pt x 437.635pt>
+[9 <./Imagenes/image019.png> <./Imagenes/image020.png> <./Imagenes/image021.png
+> <./Imagenes/image022.png> <./Imagenes/image023.png> <./Imagenes/image024.png>
+]
+<./Imagenes/image026.png, id=64, 510.90875pt x 437.635pt>
 File: ./Imagenes/image026.png Graphic file (type png)
 <use ./Imagenes/image026.png>
 Package pdftex.def Info: ./Imagenes/image026.png  used on input line 36.
@@ -544,7 +528,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-<./Imagenes/image027.png, id=72, 515.9275pt x 405.515pt>
+<./Imagenes/image027.png, id=65, 515.9275pt x 405.515pt>
 File: ./Imagenes/image027.png Graphic file (type png)
 <use ./Imagenes/image027.png>
 Package pdftex.def Info: ./Imagenes/image027.png  used on input line 40.
@@ -554,7 +538,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-[12 <./Imagenes/image026.png> <./Imagenes/image027.png>]
+[10 <./Imagenes/image026.png> <./Imagenes/image027.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
@@ -563,7 +547,7 @@ File: ./Imagenes/image026.png Graphic file (type png)
 <use ./Imagenes/image026.png>
 Package pdftex.def Info: ./Imagenes/image026.png  used on input line 48.
 (pdftex.def)             Requested size: 255.45375pt x 218.81696pt.
-<./Imagenes/image028.png, id=76, 492.84125pt x 289.08pt>
+<./Imagenes/image028.png, id=69, 492.84125pt x 289.08pt>
 File: ./Imagenes/image028.png Graphic file (type png)
 <use ./Imagenes/image028.png>
 Package pdftex.def Info: ./Imagenes/image028.png  used on input line 50.
@@ -583,17 +567,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-[13 <./Imagenes/image028.png>]
+[11 <./Imagenes/image028.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-<./Imagenes/image029.png, id=80, 481.8pt x 288.07625pt>
+<./Imagenes/image029.png, id=74, 481.8pt x 288.07625pt>
 File: ./Imagenes/image029.png Graphic file (type png)
 <use ./Imagenes/image029.png>
 Package pdftex.def Info: ./Imagenes/image029.png  used on input line 61.
 (pdftex.def)             Requested size: 240.8994pt x 144.03777pt.
-<./Imagenes/image030.png, id=81, 476.78125pt x 286.06876pt>
+<./Imagenes/image030.png, id=75, 476.78125pt x 286.06876pt>
 File: ./Imagenes/image030.png Graphic file (type png)
 <use ./Imagenes/image030.png>
 Package pdftex.def Info: ./Imagenes/image030.png  used on input line 62.
@@ -603,7 +587,7 @@ Overfull \hbox (10.79121pt too wide) in paragraph at lines 61--63
 [][] [] 
  []
 
-) [14 <./Imagenes/image029.png> <./Imagenes/image030.png>] (Lab01IN.aux
+) [12 <./Imagenes/image029.png> <./Imagenes/image030.png>] (Lab01IN.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 
@@ -621,9 +605,9 @@ Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
 ers/DEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 r12.pfb><C:/Users/DEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb>
-Output written on Lab01IN.pdf (16 pages, 290257 bytes).
+Output written on Lab01IN.pdf (14 pages, 289283 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 90 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
